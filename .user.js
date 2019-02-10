@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         AutoTrimps-genBTC
 // @version      2.1.6.9-genbtc-3-23-2018
-// @namespace    https://genbtc.github.io/AutoTrimps
-// @updateURL    https://genbtc.github.io/AutoTrimps/.user.js
+// @namespace    https://hawktechbr.github.io/AutoTrimps
+// @updateURL    https://hawktechbr.github.io/AutoTrimps/.user.js
 // @description  Automate all the trimps!
 // @author       zininzinin, spindrjr, Ishkaru, genBTC
 // @include      *trimps.github.io*
 // @include      *kongregate.com/games/GreenSatellite/trimps
-// @connect      *genbtc.github.io/AutoTrimps*
+// @connect      *hawktechbr.github.io/AutoTrimps*
 // @connect      *trimps.github.io*
 // @connect      self
 // @grant        none
